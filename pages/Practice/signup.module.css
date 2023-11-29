@@ -1,0 +1,79 @@
+
+
+
+/* Form container */
+.myForm {
+  margin: 20px;
+  padding: 20px;
+  background-color: #f4f4f4;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+/* Input fields */
+.input {
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+/* Buttons */
+.button {
+  padding: 10px 20px;
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* Labels */
+.label {
+  font-weight: bold;
+}
+
+/* Radio buttons */
+.radioInput {
+  margin-right: 5px;
+}
+
+.radioLabel {
+  display: inline-block;
+  margin-right: 15px;
+}
+.select {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+}
+.radioContainer label
+ {
+  display: block;
+  margin-bottom: 5px; 
+}
+.radioBox 
+{
+  border: 1px solid #030303;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.checkboxContainer
+ {
+  margin-top: 20px; 
+}
+
+.checkboxBox 
+{
+  margin-top: 10px; 
+  padding: 10px;
+  border: 1px solid #0f0f0f; 
+  border-radius: 5px; 
+}
+
